@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webWidget>
+  <widgetName>Eduguide_19247519</widgetName>
+  <registeredUrl><link>http://stat.appioapp.com/statistics.php</link></registeredUrl>
+  <id>19247519</id>
+  <usage><link>http://stat.appioapp.com/statistics.php</link></usage>
+  <preventFromSleep>false</preventFromSleep>
+  <locationUrl><link>icc.to/desktopify/android/location.php</link></locationUrl>
+  <acceptCookie>true</acceptCookie>
+  <userInterface>standard</userInterface>
+  <bannerPosition>bottom</bannerPosition>
+  <rateItemVisibility>FALSE</rateItemVisibility>
+  <showRefreshMenuItem>TRUE</showRefreshMenuItem>
+  <showShareMenuItem>true</showShareMenuItem>
+  <showAboutMenuItem>true</showAboutMenuItem>
+  <showExitMenuItem>true</showExitMenuItem>
+  <showSearchNotice>false</showSearchNotice>
+  <enableUrlBar>false</enableUrlBar>
+  <showDownloadList>false</showDownloadList>
+  <tabsPosition>drawer</tabsPosition>
+  <enableFullScreenBanner>true</enableFullScreenBanner>
+  <enableOnExitFullScreenBanner>true</enableOnExitFullScreenBanner>
+  <enableRedirection>true</enableRedirection>
+  <enableHideUrlBar>true</enableHideUrlBar>
+  <enableHideTabBar>true</enableHideTabBar>
+  <downloadAction>dialog</downloadAction>
+  <theme>SLIDER</theme>
+  <urlBarStyle>top</urlBarStyle>
+  <enableAboutScreen>true</enableAboutScreen>
+  <showSettings>true</showSettings>
+  <fullScreenMode>
+    <content>
+      <id>tab0</id>
+      <name>Eduguide</name>
+      <link>https://careercompasseduguide.lovable.app</link>
+      <update>0</update>
+      <width>319</width>
+      <height>458</height>
+      <tabName>Eduguide</tabName>
+      <tabIcon></tabIcon>
+      <showAsTab>true</showAsTab>
+      <tabId>22926020</tabId>
+      <tabType>web</tabType>
+      <loadingCurtain>none</loadingCurtain>
+    </content>
+  </fullScreenMode>
+</webWidget>
